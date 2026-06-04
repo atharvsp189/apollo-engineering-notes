@@ -1,0 +1,144 @@
+Unit 3:
+
+    Public Key Cryptography
+    RSA Algorithm: 
+        Working, Key length, Security, Key Distribution, 
+        Deffie-Hellman Key Exchange
+    Elliptic Curve:
+        Arithmetic
+        Cryptography
+        Security 
+    Authentication methods
+    Message Digest
+    Kerberos
+    X.509 Authentication service.
+    Digital Signatures: 
+        Implementation, Algorithms, Standards (DSS), Authentication Protocol. 
+
+    PYQ: 
+
+        Describe the Deffie-Hellman Key Exchange in detail.
+        Identify and explain the authentication methods.
+        Distinguish between Kerberos and X.509 authentication service.
+        What is Digital Signature Standard? Explain the DSS approach.
+
+        What is the shared secret key?
+        Explain Message Digest algorithm in detail.
+        Explain the operations of Kerberos.
+        Explain operation of MD5 message digest algorithm.
+
+        - Perform encryption and decryption using RSA algorithm for p=l 7, q=31, e = 7 and M = 2.
+        - User A and B use the Diffie-Helliman key exchange technique with a common prime q = 71 and a primitive root α = 7.
+            If user A has private key XA = 5, what is A’s public key YA?
+            If user B has private key XB = 12, what is B’s public key YB?
+
+Unit 4: Security Requirements
+
+    IP Security: 
+        Introduction
+        Architecture
+        IPV6, IPv4
+        IPSec protocols
+        Operations
+        AH Protocol, 
+        ESP Protocol 
+        ISAKMP Protocol 
+        VPN
+    WEB Security: 
+        Introduction
+        Secure Socket Layer (SSL)
+        SSL Session and Connection
+        SSL Record Protocol
+        Handshake Protocol 
+        Change Cipher Spec Protocol
+        Alert Protocol
+    Electronic Mail Security: 
+        Introduction
+        Pretty Good Privacy 
+        MIME 
+        S/MIME
+        Comparison
+    Secure Electronic Transaction (SET). 
+
+    PYQ: 
+        Describe IPSec Protocol with its components and Security Services
+        List and explain components of IPSec protocol.
+        Explain ISAKMP protocol of IPSec.
+        Explore Secure Socket Layer Handshake protocol in detail.
+        Identify Threats to web Security and figure out how any of two among listed are countered by particular feature of SSL.
+        Describe the SSL protocol in details.
+        What is VPN? Explain types of VPN.
+        What is VPN? Explain components of VPN.
+        Explain working of PGP in details.
+        List and explain various participants involved in Secure Electronic Transaction (SET).
+        Distinguish between PGP and S/MIME.
+        What is S/MIME’? What are the benefits of S/MIME?
+
+Unit 5:
+
+    Firewall And Intrusion 
+        Introduction
+        Computer Intrusions. 
+    Firewall 
+        Introduction
+        Characteristics and types
+        Benefits and limitations
+        Firewall architecture
+    IDS: 
+        Intrusion detection
+        Need
+        Methods
+        Types of IDS
+        Password Management
+        Limitations and Challenges
+    Trusted Systems
+    Access Control
+
+    PYQ:  
+        What is trusted system? Explain in brief.
+        Differentiate packet filtering router and stateful Inspection firewall.
+        Describe operation of packet filtering firewall.
+        Illustrate Screened subnet firewall Architecture.
+        List limitations of Firewall.
+        List and Explain types of intrusion detection system (IDS)
+        Identify and explore any two-password management practice.
+        Explain the architecture of firewall.
+        Difference between IDS and IPS.
+        What is access control security service?
+
+Unit 6: 
+
+    Cyber Forensic, Hacking& its countermeasures
+
+        Personally Identifiable Information (PII)
+        Cyber Stalking
+        Cybercrime
+        PII Confidentiality 
+        Safeguards
+        Information Protection Law: 
+            Indian Perspective
+        Hacking: 
+            Remote connectivity and VoIP hacking
+            Wireless Hacking
+            Mobile Hacking
+            countermeasures
+
+    PYQ: 
+        Who are cyber criminals? What are types of cyber crimes.
+        Illustrate life cycle of cyber forensics?
+        List VoIP hacking types and explore any 3? What are the counter measures for it.
+        What is Botnet? How to protect from botnet?
+        Explain the terms:
+            Virus
+            Phishing
+            Spoofing
+            Phone phishing
+            Internet pharming
+            Cyber Forensic
+        What is Cyber Staking.
+        Identify and explore the different types of Cyber stalker attacks.
+        Write short note on Mobile Hacking.
+        Explain Indian IT Act.
+        Explain PII impact level with examples.
+        Write short note on Cybercrime.
+        Write Advantages of cyber law.

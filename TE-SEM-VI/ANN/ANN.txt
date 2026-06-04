@@ -1,0 +1,61 @@
+ANN
+
+3rd Unit
+
+Introduction
+    Associative Learning
+    Hopfield network
+        Error Performance in Hopfield networks
+    simulated annealing
+    Boltzmann machine and Boltzmann learning
+    State transition diagram and false minima problem
+    stochastic update
+Basic functional units of ANN for pattern recognition tasks: 
+    Pattern association
+    pattern classification
+    pattern mapping tasks.
+
+Unit 4
+
+Components of CL network
+Pattern clustering and feature mapping network
+ART networks
+    Features of ART models
+    character recognition using ART network.
+Self-Organization Maps (SOM): 
+    Two Basic Feature Mapping Models
+    Self-Organization Map
+    SOM Algorithm
+    Properties of Feature Map
+Computer Simulations
+Learning Vector Quantization
+Adaptive Pattern Classification
+
+
+Unit 5
+
+Building blocks of CNNs
+    Architectures
+    convolution / pooling layers
+    Padding
+    Strided convolutions,
+    Convolutions over volumes
+    SoftMax regression
+Deep Learning frameworks
+    Training and testing on different distributions
+    Bias and Variance with mismatched data distributions
+Transfer learning
+multitask learning
+end-to-end deep learning
+
+Unit 6
+
+Pattern classification – 
+    Recognition of Olympic games symbols
+    Recognition of printed Characters
+Neocognitron – 
+    Recognition of handwritten characters. 
+NET Talk: 
+    to convert English text to speech.
+Recognition of consonant vowel (CV) segments
+texture classification and segmentation

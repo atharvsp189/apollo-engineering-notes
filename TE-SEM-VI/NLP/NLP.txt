@@ -1,0 +1,74 @@
+
+Unit III Syntax Parsing (8 Hours)
+
+    Constituency Grammars:
+        Context free grammer
+        grammar rules for English
+        treebanks
+        grammar equivalence and normal forms
+        lexicalized grammer
+    Constituency Parsing:
+        Ambiguity
+        CKY parsing
+        span based neural constituency parsing
+        evaluation parsers
+        partial parsing
+        CCG parsing
+    Dependancy parsing:
+        dependancy relations
+        dependancy formalism
+        dependancy treebank
+        transition and graph based dependency parsing
+        evaluations
+
+Unit IV Semantic Parsing (8 Hours)
+    Word Senses and WordNet: 
+        Word senses
+        relation between senses
+        WordNet
+        wordsense disambituition
+        WSD algorithm and task
+    Word sense inductions Semantic role labelling: 
+        semantic roles
+        semantic role labelling
+        diathesis alteration
+        problems with thematic roles
+        proposition bank
+        framenet
+        selection restrictions
+        decomposition of predicates
+    Lexicon for sentiment affect and connotation: 
+        emotions sentiment and affect lexicons
+        Creating Affect Lexicons by Human Labeling
+        Semi-supervised Induction of Affect Lexicons
+        Supervised Learning of Word Sentiment
+        Using Lexicons for Sentiment Recognition
+    Other tasks: 
+        Personality
+        Affect Recognition
+        Lexicon-based methods for Entity-Centric Affect
+        Connotation Frames
+
+
+Unit V Machine Translation (MT) ( 8 Hours)
+    Need of MT
+    Problems of Machine Translation
+    MT Approaches
+        Direct Machine Translations
+        RuleBased Machine Translation
+        Knowledge Based MT System
+        Statistical Machine Translation (SMT)
+        Parameter learning in SMT (IBM models) using EM
+        Encoder-decoder architecture
+        Neural Machine Translation
+
+Unit VI Applications of NLP ( 6 Hours)
+    Information retrieval-Vector Space Model
+    Information Extraction using sequence labelling
+    Question answers system
+    categorization
+    summarization
+    sentiment analysis
+    Named Entity Recognition.
+    Analyzing text with NLTK
+    Chatbot using Dialogflow
