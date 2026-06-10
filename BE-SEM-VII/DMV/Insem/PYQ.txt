@@ -1,0 +1,25 @@
+Explain in detail Positive, negative and zero covariance with appropriate graphs
+Differentiate between Discrete and Continuous random variables with the help of an example
+Explain following discrete distributions 
+    i) Geometric distribution
+    ii) Binomial distribution
+
+Define and explain maximum likelihood estimation
+Explain Chebyshev Inequality with the help of an example
+Define Descriptive Statistics and Graphical Statistics. Explain different Estimation Methods
+
+Explain Covariance and Central Limit Theorem
+Define Independent Variable and explain types of Independent Variables with Example
+Explain Data Modelling Concepts with Example
+
+Define Poisson process. Poisson process is a suitable stochastic model in rare events. Justify
+Calculate Pi Using Monte Carlo method
+How  does  a  queuing  system  work?  What  happens  with  a  job  when  it goes through a queuing system
+
+Explain the steps of Hypothesis Testing
+Draw a neat diagram of Right-tail, Left-tail and Two sided Z-test and locate Acceptance and rejection regions
+Explain Transition State Diagram and Emission State Diagram of Hidden Markov Model with the help of example
+
+Explain Stochastic Processes with the help of an Example
+Discuss type 1 and type 2 errors with an example
+Differentiate between T-Test , Z-Test and F-Test

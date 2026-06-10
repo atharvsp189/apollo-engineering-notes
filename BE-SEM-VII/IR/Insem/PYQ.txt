@@ -1,0 +1,27 @@
+Write short note on Vector Model & Probabilistic Model
+Enlist features of IR system
+Explain methods of text categorization
+
+What are the Components of IR model
+Differentiate between Data retrieval & Information retrieval
+What is Boolean Retrieval
+
+Explain Major Challenges in IR
+Draw and Explain Block Diagram of IR System
+
+List and Explain steps of indexing in information retrieval
+What are the three components of query optimization
+Define
+    i) Impact ordering.
+    ii) Ranked Retrieval.
+What is index lifecycle in information retrieval
+Discuss types of dictionaries in information retrieval
+What are Components of Index
+
+Write Short Note on following
+    i) Dynamic Indexing
+    ii) Impact Ordering
+Explain the static inverted index
+
+Explain Index Construction in detail
+Explain Query Processing for Ranked Retrieval

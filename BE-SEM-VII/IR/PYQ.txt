@@ -1,0 +1,50 @@
+Uni 3:
+
+Define and explain Probabilistic Retrieval. [6]
+What is the binary independent retrieval model? [6]
+
+Explain with suitable example different levels of NLP [6]
+List and explain the challenges in  Natural language processing [6]
+
+
+What  is  the  probability  ranking  principle  for  interactive  information retrieval? [6]
+State and explain different types of Bayesian networks? [6]
+
+What is language modeling approach to information retrieval? [6]
+Explain language models? [6]
+
+
+Unit 4:
+
+    What is the difference between clustering and classification? Can clustering be used for classification purposes? [6]
+
+    What are different types of clustering algorithm? Explain any one of them.[5]
+    What are the different types of agglomerative clustering? [5]
+    Explain Mixture of Gaussians Model. [5]
+
+    Explain in detail about naïve Bayes algorithm and its application in text classification [6]
+    What are the applications of naive Bayes classifier? [6]
+
+    What is K nearest neighbor classifier with an illustration in information retrieval? [6]
+    What is the hypothesis used in the vector space model for classification?[6]
+
+
+Unit 5:
+
+    Discuss the challenges involve in web search engine [5]
+    What is parallelism in query processing? [6]
+    Explain search engine ranking function? [5]
+    Factors that influence a webpage’s PageRank score. [6]
+
+    Explain the components of focused web crawlers?
+    Define Python library is used for web crawling? [6]
+    What are the Main challenges posed by Web? [5]
+
+Unit 6:
+    Explain multimedia IR models? [9]
+    
+    Multimedia Information Retrieval. [9]
+    What is the difference between information retrieval and recommender system? [9]
+
+    What are the four phases of recommender system? [9]
+    What are the different evaluation metric for Recommender system. [9]

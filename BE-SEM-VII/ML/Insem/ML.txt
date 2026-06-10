@@ -1,0 +1,48 @@
+Unit I Introduction to Machine Learning
+
+Introduction: 
+    What is Machine Learning
+    Definitions and Real-life applications 
+    Comparison of Machine learning with traditional programming
+    ML vs AI vs Data Science.
+Learning Paradigms: 
+    Learning Tasks- Descriptive and Predictive Tasks
+    Supervised, Unsupervised, Semi-supervised and Reinforcement Learnings.
+Models of Machine learning: 
+    Geometric model
+    Probabilistic Models
+    Logical Models
+    Grouping and grading models
+    Parametric and non-parametric models.
+Feature Transformation: 
+    Dimensionality reduction techniques- PCA and LDA
+
+Unit II Regression
+
+Introduction
+    Regression
+    Need of Regression
+    Difference between Regression and Correlation
+Types of Regression: 
+    Univariate vs. Multivariate
+    Linear vs. Nonlinear
+    Simple Linear vs. Multiple Linear
+    Bias-Variance tradeoff
+    Overfitting and Underfitting.
+
+Regression Techniques
+    Polynomial Regression
+    Stepwise Regression
+    Decision Tree Regression
+    Random Forest Regression
+    Support Vector Regression
+    Ridge Regression
+    Lasso Regression
+    ElasticNet Regression
+    Bayesian Linear Regression
+Evaluation Metrics: 
+    Mean Squared Error (MSE)
+    Mean Absolute Error (MAE)
+    Root Mean Squared Error (RMSE)
+    R-squared
+    Adjusted R-squared.

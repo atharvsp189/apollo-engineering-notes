@@ -1,0 +1,45 @@
+Unit I Introduction to Data Modelling
+
+Basic probability:
+    Discrete and continuous random variables
+    independence
+    covariance
+    central limit theoremN
+    Chebyshev inequality
+    diverse continuous and discrete distributions
+    Statistics
+
+Parameter Estimation, and Fitting a Distribution: 
+    Descriptive statistics
+    graphical statistics
+    method of moments
+    maximum likelihood estimation
+    Data Modeling Concepts
+
+Unit II Testing and Data Modeling
+
+Random Numbers and Simulation: 
+    Sampling of continuous distributions
+    Monte Carlo methods
+
+Hypothesis Testing: 
+    Type I and II errors
+    rejection regions
+    Z-test
+    T-test
+    F-test
+    Chi-Square test
+    Bayesian test
+
+Stochastic Processes and Data Modeling: 
+    Markov process
+    Hidden Markov Models
+    Poisson Process
+    Gaussian Processes
+    Auto-Regressive and Moving average processes
+    Bayesian Network
+    Regression
+    Queuing systems
+
+
+    

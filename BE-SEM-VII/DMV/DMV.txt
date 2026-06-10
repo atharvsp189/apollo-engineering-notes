@@ -1,0 +1,76 @@
+Unit III Basics of Data Visualization 
+
+Computational  Statistics  and  Data  Visualization
+    Types  of  Data  Visualization
+    Presentation  and Exploratory Graphics
+    Graphics and Computing
+    Statistical Historiography
+    Scientific 
+
+Design Choices in Data Visualization
+    Higher-dimensional Displays and Special Structures
+
+Static Graphics
+    Complete Plots
+    Customization
+    Extensibility
+
+Other Issues
+    3-D Plots
+    Speed
+    Output Formats
+    Data Handling
+
+Unit IV Data Visualization and Data Wrangling 
+
+Data Wrangling
+    Hierarchical Indexing
+    Combining and Merging Data Sets Reshaping and Pivoting. 
+
+Data Visualization matplotlib
+    Basics of matplotlib plotting with pandas and seaborn other python visualization tools 
+
+Data  Visualization Through  Their  Graph  Representations
+    Data  and  Graphs
+    Graph  Layout Techniques
+    Force-directed Techniques 
+    Multidimensional  Scaling
+    The  Pulling  Under  Constraints Model Bipartite Graphs 
+
+Unit V Data Aggregation and Analysis 
+
+Data  Aggregation  and  Group  operations
+    Group  by  Mechanics
+    Data  aggregation
+    General  split-apply-combine
+    Pivot tables and cross tabulation 67 Time Series
+
+Data Analysis
+    Date and Time Data Types and Tools
+    Time series Basics
+        date Ranges
+        Frequencies and  Shifting
+        Time  Zone  Handling
+        Periods  and  Periods  Arithmetic
+        Resampling  and  Frequency conversion
+        Moving Window Functions
+
+Unit VI Data Analysis of Visualization and Modelling 
+
+Reconstruction
+Visualization and Analysis of Medical Images
+
+Introduction
+    PET Images
+    Ultrasound Images
+    Magnetic Resonance Images
+    Conclusion and Discussion
+
+Case  Study
+    ER/Studio
+    Erwin  data  modeler
+    DbSchema  Pro
+    Archi
+    SQL  Database  Modeler
+    LucidChart
+    Pgmodeler 
