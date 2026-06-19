@@ -1,0 +1,93 @@
+
+Unit 3: 
+    K-Nearest Neighbor:
+    1. Write a detailed note on K Nearest Neighbour algorithm with suitable
+    example. 
+
+    2. Apply K-Nearest Neighbor Algorithm (KNN) on following data. Predict
+    the student result for values physics = 6 marks, Chemistry = 8 marks.
+    Consider number of neighbours K = 3 and Euclidean Distance as distance
+    measure.
+    Physics (marks) Chemistry (marks) Results
+    4 3 Fail
+    6 7 Pass
+    7 8 Pass
+    5 5 Fail
+    8 8 Pass
+
+
+    SVM: 
+    Explain support Vector Machine classification algorithm with suitable
+    example.
+    What are kernel functions in SVM? Describe the Radial Basis Kernel,
+    and Sigmoid kernel.
+
+    Classification
+    1. Explain construction of multi-classifier.
+        - One Vs. All approach
+        - One Vs One approach
+    2. Differentiate between Binary - vs - Multiclass Classification.
+    3. Differentiate Balanced and Imbalanced Classification
+
+    Evaluation Metrics:
+    1. Explain any 4 evaluation measures of Binary classification with example
+
+    2. Write  formula  for  accuracy,  precision,  recall  and  fl-score.  Calculate
+    accuracy, precision, recall and fl-score for given example.
+                        Actual Values
+    Predicted Values    Cancer      No Cancer
+        Cancer          45              18
+        No Cancer       12              25
+
+
+Unit 4:
+
+    1. What is clustering? Elaborate Types of Clustering.
+    2. Elaborate need of clustering and explain how the elbow method is used to decide the value of cluster k.
+    3. Describe centroid based clustering algorithm and explain any one type with example.
+    4. Explain K - Means clustering algorithm and states the advantages and disadvantages of k-means clustering algorithm.
+    5. Explain Gaussian mixture model with example.
+    6. Explain DBSCAN algorithm with advantages and disadvantages.
+
+    7. Explain Divisive Hierarchical clustering (DHC) algorithm with example
+    8. Differentiate  Agglomerative  Hierarchical  Clustering  and  Divisive Hierarchical Clustering.
+
+Unit 5:
+
+    1. Explain Following with respect to Ensemble learning.
+        i) Need of Ensemble Learning
+        ii) Advantages of Ensemble methods
+        iii) Ensemble learning limitations
+
+    2. What is the ensemble learning? Explain any two ensemble learning
+    techniques.     
+
+    3. Compare Homogeneous and Heterogeneous ensemble methods.
+    4. Explain different types of voting mechanisms in ensemble learning.
+    5. Explain any three voting mechanism in ensemble learning.
+
+    6. Differentiate the Bagging and Boosting approach of ensemble learning techniques.
+    7. Explain AdaBoost algorithm in detail.
+    8. Explain Gradient Boosting ensemble learning
+
+    9.Explain random forest ensembles with an example.
+    10. Elaborate stacking approach of ensemble with example.
+
+
+Unit 6:
+
+    1. Differentiate supervised and unsupervised learning with example.
+    2. Explain Reinforcement Learning need and its types in detail?
+    3. What is Reinforcement Learning? Explain the real time applications of reinforcement learning.    
+    
+    4. How does the Markov property relate to Reinforcement Learning? Why is it important?
+
+    5. Explain following terms:
+        i) Markov Property
+        ii) Bellman Equation
+        iii) Markov Reward Process
+        iv) Markov Chain
+        v) Q table
+        vi) Q function
+
+    6. Explain Q-Learning algorithm with an example.

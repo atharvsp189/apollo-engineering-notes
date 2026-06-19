@@ -1,0 +1,29 @@
+Unit 1:
+Describe Machine Learning and differentiate it from traditional programming
+Explain the relationship between Artificial Intelligence, Machine Learning and data science
+
+Explain types of Machine Learning
+Write a note on Reinforcement Learning
+Differentiate supervised and unsupervised learning techniques
+
+Explain Principal Component Analysis used in Machine Learning
+Explain Linear Discriminant Analysis (LD used in Machine Learning
+
+Differentiate Grouping and Grading models of Machine Learning
+Explain parametric & nonparametric models in machine learning
+
+Unit 2:
+
+What is Regression? Explain types of Regressions
+
+Explain three evaluation metrics used for regression model
+Differentiate between Regression and Correlation
+Explain Bias-Variance Trade-off with respect to Machine Learning
+Differentiate multivariate regression and univariate regression
+What  is  underfitting  and  overfitting  in  machine  Learning  explain  the techniques to reduce overfitting?
+
+Explain the Random forest Regression
+Differentiate Ridge and Lasso Regression techniques
+
+
+Explain Elastic Net regression in Machine Learning

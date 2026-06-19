@@ -1,0 +1,58 @@
+Unit 3:
+
+    Explain Simon’s Algorithm. [6]
+
+    Describe Shor’s Algorithm with example. [6]
+    Explain Quantum Part of the Shor’s Algorithm. [9]
+
+    Describe Grover’s Algorithm with example. [9]
+
+    Explain Factoring Integers, with example. [9]
+    Discuss analysis of Deutsch algorithm in details. [9]
+    Write a short note on: Phase Kick-Back. [6]
+
+Unit 4:
+
+    Explain in details quantum support vector machines. [6]
+    Explain Nearest Neighbour Search in detail. [6]
+    Explain in detail - Quantum Boosting. [6]
+
+    Write a short note on: Variational Quantum Algorithms. [6]
+    Explain Quantum Neural Networks. [6]
+    Describe classification in quantum machine learning with examples. [6]
+
+    Explain Nearest Neighbour Search in detail. [9]
+    Explain Quantum Algorithms for Linear Algebra. [9]
+
+    Identify the key differences between classical SVM and Quantum SVM in terms of their advantages? [9]
+    Explain quantum boosting with example. [9]
+
+Unit 5:
+
+    Explain Quantum Teleportation in detail. [9]
+    Describe Quantum cryptography and secure communication in detail. [8]
+
+    Explain in short Quantum Dense Coding. [9]
+    Explain Noise and error models in quantum systems. [8]
+
+    What are some practical challenges and limitations associated with error model encoding in quantum computing. [6]
+    Describe Quantum Key Distribution in short. [6]
+    Discuss the Classical Three-Bit Code. [5]
+
+    Discuss in detail Quantum cryptography. [6]
+    Write a short Note on Fault Tolerance. [5]
+
+Unit 6:
+
+    State  the  challenges  and  limitations  are  associated  with  quantum computing in data sciences. [9]
+    Describe Heuristic Search with example. [8]
+
+    Write a short note on Quantum Tree Search. [8]
+
+    Describe the Quantum Walk-Random Insect. [9]
+    Write short note on  Quantum Walk. [6]
+
+    Explain Quantum Neural Computation. [6]
+
+    Explain Quantum Production System in detail. [6]
+    Describe the Heuristic Search with example. [5]

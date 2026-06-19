@@ -1,0 +1,58 @@
+Unit III Quantum Algorithms 
+
+    Probabilistic  Versus  Quantum  Algorithms
+    Phase  Kick-Back
+    The  Deutsch  Algorithm
+    The  Deutsch–Jozsa Algorithm
+    Simon’s Algorithm
+    Shor’s Algorithm
+    Factoring Integers
+    Grover’s Algorithm
+
+Unit IV Quantum Machine Learning 
+
+Quantum  Enhanced  Machine  Learning:
+    Quantum  Algorithms  for  Linear  Algebra
+    Regression
+    Clustering
+    Nearest Neighbour Search
+    Classification
+    Quantum Boosting
+    Quantum Support Vector Machines
+    Quantum Neural Networks
+    Variational Quantum Algorithms
+
+Unit V Quantum Information Processing 
+
+Classical  Error  Correction:  
+    The  Error  Model  Encoding
+    Error  Recovery
+    The  Classical  Three-Bit Code
+    Fault Tolerance.  
+
+Quantum Information: 
+    Quantum Teleportation
+    Quantum Dense Coding
+    Quantum Key Distribution
+    Noise and error models in quantum systems
+    Quantum cryptography and secure communication
+
+Unit VI Quantum Problem Solving & AI applications 
+
+Quantum Problem Solving:
+    Heuristic Search
+    Quantum Tree Search
+    Quantum Production System
+    Tarrataca’s Quantum Production System 
+
+Quantum  AI  Application:
+    Introduction  to  Pennylane:
+    a  cross-platform  Python  library
+    Quantum  Neural Computation
+    Quantum Walk – 
+        Random insect
+        Walk on graph
+
+Case studies on Quantum-centric supercomputing: 
+    The next wave of computing
+    Quantum computing for data sciences

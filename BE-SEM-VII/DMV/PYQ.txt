@@ -1,0 +1,62 @@
+Unit 3:
+
+Explain  need  of  Graphics  and  computing  in  data  visualization.  How exploratory graphics is useful in visualization. [10]
+Explain the different types of Data visualization. [9]
+
+Write a short note on Statistical Historiography in data visualization.[8]
+Write a short note on Role of Computational Statistics in data visualization.[8]
+
+Explain data handling in data modeling and visualization. [10]
+Explain data handling for data visualization. [9]
+Explain the types of Data Visualization with suitable example. [8]
+Explain in detail design choices in data visualization. [8]
+
+Unit 4:
+
+Explain the Force-directed Techniques and Multidimensional Scaling in detail. [9]
+Explain importance of reshaping and pivoting in data visualization. [8]
+Write a short note on Pulling Under Constraints Model. [8]
+Explain the process of data wrangling in detail. [9]
+
+Discuss various functions available in matplotlib. [7]
+Explain effective graph layout techniques in data visualization. [6]
+
+Explain Bipartite Graph and its applications. [6]
+
+
+Unit 5:
+
+Describe  in  detail  data  aggregation  with  its  importance  for  group operations. [8]
+Explain Data aggregation with suitable example. [9]
+Explain  Group  by  Mechanics  techniques  in  data  modeling  and visualization. [9]
+Explain the steps involved in Split Apply Combine strategy. [4]
+
+Explain in detail cross tabulation 67 Time Series. [9]
+Explain Cross Tabulation and its uses with suitable example. [8]
+
+
+Write a short note on. [9]
+    i) Pivot Tables
+    ii) Periods and Periods Arithmetic
+    iii) Data Aggregation
+
+
+
+
+
+Discuss  Data  Reconstruction  and  its  types  in  data  modeling  and visualization. [7]
+Explain  ultrasound  images  and  its  applications  in  data  modeling  and visualization. [6]
+
+
+Explain PET Images and its applications in data modeling and visualization.[9]
+Explain  the  various  data  reconstruction  techniques  used  to  assist  data modeling and visualization. [9]
+Write short note on:
+    i) PET Images
+    ii) Magnetic Resonance Images
+    iii) Ultrasound Images
+
+
+Explain ER/Studio with  its applications. [9]
+Explain Dbschema Pro Modeler in data modeling and visualization. [4]
+Explain SQL Database Modeler in data modeling and visualization. [4]
+    

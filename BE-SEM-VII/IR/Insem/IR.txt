@@ -1,0 +1,30 @@
+Unit I Introduction 06 Hours
+
+Introduction to information retrieval
+    Major challenges in IR
+    Features of an IR system
+    components of an IR model
+    IR system block diagram
+    Boolean retrieval
+    Information versus Data Retrieval
+    Text categorization
+IR processes and fields
+    Vector Model
+    Probabilistic Model
+    Latent Semantic Indexing Model
+
+Unit II Dictionaries and Query Processing
+
+Components of Index
+Index Life Cycle
+Static Inverted Index
+Dictionaries-Types (Sort Based, Hash Based, Interleaving & Posting Lists)
+Index Construction (In memory Sort Based, Merge Based, Disk Based Index Construction)
+Dynamic Indexing
+Query Processing for Ranked Retrieval
+Document at a Time Query Processing
+Term at a Time Query Processing
+Pre-computing Score
+Contributions
+Impact Ordering
+Query Optimization

@@ -1,0 +1,122 @@
+Unit III Classification
+
+Introduction: 
+    Need of Classification
+    Types of Classification (Binary and Multiclass)
+    Binary-vs-Multiclass Classification
+    Balanced and Imbalanced Classification Problems
+
+Binary  Classification:
+    Linear  Classification  model
+    Performance Evaluation-  
+    Confusion  Matrixlearning
+    Accuracy learning
+    Precision learning
+    Recall learning
+    F measures.  
+
+Multiclass Classification: 
+    One-vs-One and One-vs-All classification techniques
+    Performance Evaluation- Confusion Matrixlearning
+    Per Class Precisionlearning
+    Per Class Recall    
+
+Classification Algorithms: 
+    K Nearest Neighbor
+    Linear Support Vector Machines (SVM) – 
+        Introduction
+        Soft  Margin  SVM
+        Kernel  functions–  Radial  Basis  Kernellearning
+        Gaussian learning
+        Polynomial learning
+        Sigmoid 
+
+Unit IV Clustering
+
+Introduction: 
+    What is clustering
+    Need of Clustering
+    Types of Clustering 
+
+Hierarchical  clustering  algorithms  /connectivity-based  clustering):
+    Agglomerative  Hierarchical Clustering (AHC) algorithm
+    Divisive Hierarchical Clustering (DHC) algorithm. 
+
+Centroid-based  clustering  algorithms  /  Partitioning  clustering  algorithms:
+    K-Means  clustering  algorithmlearning
+        Advantages  and  disadvantages  of  K-Means  clustering  algorithm
+    Elbow  method
+    The Silhouette method
+    K-Medoids
+    K-Prototype
+
+Density-based clustering algorithms:
+    DBSCAN algorithm
+    how it works
+    Advantages and disadvantages of DBSCAN. 
+
+Distribution-based clustering algorithms: 
+    Gaussian mixture model
+
+Application of Clustering Technique:
+    Market Segmentation
+    Statistical data analysis
+    Social network analysis
+    Image segmentation
+    Anomaly detection 
+
+Unit V Ensemble Learning
+
+Ensemble Learning:
+    Introduction to Ensemble learning
+    Need of Ensemble learning
+    Homogeneous and Heterogeneous ensemble methods
+    Advantages and Limitations
+    Applications of Ensemble Learning. 
+
+Basic Ensemble Learning Techniques:
+    Voting Ensemble learning
+    Types of Voting: Max Voting learning, Averaging learning, Weighted Average.  
+
+Advanced Ensemble Learning Techniques: 
+    Bagging: Bootstrapping learning Aggregation. 
+
+Boosting: 
+    Adaptive Boosting (AdaBoost)learning
+    Gradient Boosting learning
+    XGBoost     
+
+Stacking: 
+    Variance Reduction learning
+    Blending learning
+
+Random Forest Ensemble learning:
+    Advantages of Random Forest 
+
+Unit VI Reinforcement Learning
+
+Reinforcement  learning:  
+    What  is  Reinforcement  Learning?
+    Need  for  Reinforcement  learning
+
+Supervised  vs  Unsupervised  vs  Reinforcement  learning
+    Types  of  Reinforcement learning
+    Elements  of Reinforcement learning
+    Real time applications of Reinforcement learning. 
+
+Markov's Decision Process:
+    Markov property learning
+    Markov chain/process learning
+    Markov reward process (MRP)learning
+    Markov decision process (MDP) learning
+    Return learning
+    Policy learning
+    Value functions learning
+    Bellman equation 
+
+Q  Learning:
+    Introduction of Q-learning
+    Important terms in Q learning
+    Q  table learning
+    Q  functions learning
+    Q  learning algorithm

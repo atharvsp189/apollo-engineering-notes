@@ -1,0 +1,33 @@
+Unit I Introduction to Quantum Computation
+
+Overview of Quantum Computation: 
+    Single qubit gates
+    Multiple qubit gates
+    Measurements in bases Vs computational basis
+    Quantum circuits
+    Qubit copying circuit
+    Example: Bell states & quantum teleportation.
+
+Basics of Linear Algebra: 
+    Hilbert Spaces
+    Products and Tensor Products, Matrices, Graphs, and Sums Over Paths
+
+
+Unit II Quantum Architecture
+
+The Framework of Quantum Mechanics: 
+    The State of a Quantum System
+    Time-Evolution of a Closed System
+    Composite Systems
+    Mixed States and General Quantum Operations
+    Universal Sets of Quantum Gates
+    Quantum measurement and quantum entanglement
+
+The quantum Fourier transform and its Applications
+    The quantum Fourier transform
+    Phase estimation,
+    order-finding and factoring
+    General applications of the quantum Fourier transform- 
+        Period-finding
+        Discrete logarithms
+        The hidden subgroup problem

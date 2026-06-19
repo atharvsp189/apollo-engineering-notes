@@ -1,0 +1,39 @@
+Describe measurement in bases other than the computational basis.Explain each
+Define Quantum Circuits
+Demonstrate quantum teleportation with suitable example
+
+Describe Qubit copying circuit
+Explain the Products and Tensor Products
+Define Multiple Qubit Gates with example
+
+Discuss  single  qubit  gates  in  quantum  computation,  and  how  do  they operate on qubits
+Explain tensor product of two vector spaces, and how is it used in quantum mechanics
+
+Discuss Quantum circuits, and how are they used to manipulate qubits
+Explain  Bell  states,  and  their  importance  in  quantum  information processing
+c) Consider the vectors in Hilbert spaces
+    2       1 
+a = 1  b =  -1 
+    0       3 
+    i) Inner product of two real vectors <a ,b>
+    ii) Norm ||a||
+
+
+
+
+Explain Time-Evolution of a Closed Quantum System in detail
+Describe the Universal sets of quantum gates and its importance in quantum computing
+Explain in detail Quantum Fourier Transform is used in phase estimation
+
+Explain Mixed States and General Quantum Operations
+Discuss Quantum entanglement in detail
+Describe General application of Quantum Fourier Transform
+
+Describe role of measurement in quantum architecture
+Explain Quantum Phase Estimation
+
+Explain universal sets of quantum gates
+Describe the state of a Quantum System
+
+
+
