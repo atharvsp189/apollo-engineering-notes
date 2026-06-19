@@ -1,0 +1,59 @@
+Unit I Unit Introduction to Big Data and Analytics
+
+    Introduction  to  Big  Data:
+        Characteristics  –  Evolution  –  Definition  -  Challenges  with  Big  Data 
+        Traditional Business Intelligence versus Big Data
+        State of Practice in Analytics
+        Key roles for New Big Data Ecosystems 
+
+    Big Data Analytics:
+
+        Introduction & importance of Analytics
+        Classification of Analytics – Challenges  - Big  Data  Analytics
+        Big  Data  Technologies  (Apache  Hadoop,  Rapid  miner,  Looker)
+        Soft  state eventual consistency
+
+Differentiate between Big Data and Business, Intelligence. [5]
+Explain the concept of Big Data Ecosystem and its components. [5]
+Write concept of Predictive Analytics and Hadoop. [5]
+
+Explain the types of Big Data Analytics with suitable example [5]
+Discuss the characteristics and challenges with Big Data. [5]
+Describe big data Ecosystem and looker with suitable example. [5]
+
+
+Unit II Basic Data Analytic Methods
+
+    Need of Big Data Analytics
+    Advanced Analytical Theory and Methods
+
+    Clustering- Overview
+        K means- 
+        Use cases
+        Overview of methods
+        determining number of clusters, 
+        diagnostics
+        reasons to choose and cautions.  
+
+    Association Rules- 
+        Overview
+        a-priori algorithm
+        evaluation of candidate rules
+        
+    case study-
+        transactions in grocery store
+        validation and testing diagnostics.  
+        
+    Regression- 
+        linear
+        logistics
+        reasons to choose and cautions
+        additional regression models. 
+
+Explain Liner Regression with suitable example. [5] 
+Describe the Apriori algorithm and its significance in association rule mining. [5]
+Explain Logistics Regression and its use in real world scenario. [5]
+
+Explain K means clustering algorithm with suitable example. [5]
+Explain the concept of association rule mining in the context of transaction data from a grocery store. [5]
+Differentiate between Liner Regression and Logistics Regression. [5]

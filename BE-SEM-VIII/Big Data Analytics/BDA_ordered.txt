@@ -1,0 +1,101 @@
+Unit III Predictive Analysis Process and R 06 Hours
+
+Introduction to R:
+R graphical User Interfaces
+Data import and Export
+Dirty Data
+Data Analysis
+Linear regression with R
+clustering with R
+hypothesis testing
+Data cleaning and validation tools: MapReduce
+
+Data Analytics Lifecycle:
+Discovery
+Data Preparation
+Model Planning
+Model Building
+communicate results
+Operationalize
+Building a Predictive model
+
+Unit IV Advanced Predictive Analytics Algorithms and Python 06 Hours
+
+Introduction of Exploratory Data Analytics (EDA):
+Definition
+Motivation
+Steps in data exploration
+data types
+
+Techniques to Improve Classification Accuracy:
+Ensemble Methods
+Bagging
+Boosting and AdaBoost
+Random Forest
+
+Model Evaluation and Selection:
+Confusion Matrix
+Dataset Partitioning Methods - Holdout Method and Random Subsampling
+Cross Validation
+
+Unit V Big Data Visualization 06 Hours
+
+Introduction to Data Visualization:
+Objective and challenges to Big data visualization
+Conventional data visualization tools
+Techniques for visual data representation
+Types of data visualization
+Tools used in data visualization
+Open-source data visualization tools
+Analytical techniques used in Big data visualization
+Data Visualization using Tableau
+
+Introduction to: Candela, D3.js, Google Chart API
+
+Unit VI Big Data Analytics Applications and Tools 06 Hours
+
+Big Data Analytics Applications:
+Retail Analytics
+Financial Data Analytics
+Healthcare Analytics
+Supply chain management
+
+Types of Big Data Analytics tools:
+Data Collection Tools - Semantria tool, AS Sentiment Analysis tool
+Data Storage tools and frameworks - Apache HBase, CouchDB
+Data filtering and extraction tool - Scraper, Mozenda
+
+
+PYQs (reorganized by topic)
+
+-- R, Data Import/Dirty Data & EDA --
+Q1) a) What are the primary methods and functions for importing and exporting data in R and how can they be utilized effectively? [8]
+Q1) b) How can data analysts detect and address dirty data using visualizations and statistical techniques in R and what are the implications of anomalies in datasets on decision-making processes? [10]
+
+Q2) a) With the help of neat diagram explain the phases of Data Analytics life cycle. [8]
+Q2) b) What are the different attribute types in data analysis, and how are they categorized? How does R handle various data types, such as numeric, character, logical, and factors? [10]
+
+Q3) a) Explain the following terms with respect to Exploratory data analysis. [10]
+    i) Data Sourcing
+    ii) Data Cleaning
+    iii) Univariate analysis
+    iv) Bi-variate/Multivariate analysis
+Q3) b) What are the essential steps in data exploration and how do they contribute to uncovering insights and patterns within a dataset? [7]
+
+-- Model Evaluation & Ensemble Methods --
+Q4) a) How  do  ensemble  methods  such  as  bagging,  boosting, AdaBoost  and Random  Forest  contribute  to  improving  classification  accuracy  in machine learning models? [10]
+Q4) b) How does the utilization of a confusion matrix aid in the evaluation and  selection of models. [7]
+
+-- Visualization Challenges & Tools --
+Q5) a) What are the challenges associated with visualizing big data and how do these challenges impact the effectiveness and efficiency of data analysis and decision-making processes? [10]
+Q5) b) How  does Tableau  facilitate  effective  data  visualization  and  what  are some advanced techniques or features within Tableau that can be utilized to create insightful and interactive visualizations for complex datasets?[8]
+
+Q6) a) What are the key features and functionalities of the Google Chart API and  how  does  it  enable  developers  to  create  dynamic  and  interactive charts and visualizations for web applications? [8]
+Q6) b) What are the various types of data visualization techniques available to data analysts? [10]
+
+-- Applications & Tools --
+Q7) a) In what ways does financial data analytics leverage big data technologies to drive insights, mitigate risks and enhance decision-making processes within the financial industry? [10]
+Q7) b) How does Apache HBase contribute to efficient data storage and retrieval in big data environments [7]
+
+Q8) a) How does the Semantria tool streamline the data collection process and what features or capabilities does it offer that make it a valuable asset for businesses seeking to gather and analyze large volumes of unstructured data from various sources? [10]
+Q8) b) How does Mozenda serve as an effective data filtering and extraction tool? [7]

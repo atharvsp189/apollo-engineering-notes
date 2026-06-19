@@ -1,0 +1,145 @@
+Unit III Evolutionary Computing
+
+    Introduction
+    Evolutionary Computing
+    Terminologies of Evolutionary Computing
+    Genetic Operators
+    Evolutionary Algorithms: - Genetic Algorithm
+    Evolution Strategies
+    Evolutionary Programming
+    Genetic Programming
+    Performance Measures of EA
+    Evolutionary Computation versus Classical Optimization. 
+    Advanced Topics:
+        Constraint Handling
+        Multi-objective Optimization
+        Dynamic Environments 
+    Swarm Intelligence:  Ant Colony Optimization 
+
+
+What are the key performance measures used to evaluate the effectiveness of evolutionary algorithms? [6]
+What  is  swarm  intelligence,  and  how  does  it  differ  from  traditional optimization techniques? [6]
+Define Genetic programming and its application in symbolic regression? [6]
+Discuss the importance of selection in evolutionary algorithms and its impact on the convergence of the algorithm? [6]
+Explain  the  concept  of  population  in  evolutionary  computing  and  its significance in the optimization processes? [6]
+Compare  and  contrast  genetic  algorithms,  evolution  strategies, evolutionary programming. [6]
+
+Define Swarm Intelligence and Explain Ant Colony Optimization algorithm. [8]
+Write short note on: [10]
+    i) Evolutionary Computation versus Classical Optimization
+    ii) Ant Colony Optimization algorithm
+
+Write short note on: [10]
+    i) Tournament selection method
+    ii) Constraint Handling
+What are genetic operators and what is their role in evolutionary algorithms? [8]
+
+
+Unit IV Genetic Algorithm
+
+Introduction to Basic Terminologies in Genetic Algorithm:
+    Individuals
+    Population
+    Search space
+    Genes
+    Fitness function
+    Chromosome
+    Trait
+    Allele
+    Genotype and Phenotype. 
+
+GA Requirements and representation
+    Binary Representations
+    Floating-Point Representations 
+
+Operators  in  Genetic  Algorithm:  Initialization
+    Selection
+    Crossover  (Recombination)
+    Mutation; 
+
+fitness score
+    Stopping Condition
+    reproduction for GA Flow
+    Constraints in Genetic Algorithms.  
+
+Genetic  Algorithm  Variants:
+    Canonical  Genetic  Algorithm  (Holland  Classifier  System)
+    Messy 
+
+Genetic Algorithms
+    Applications and benefits of Genetic Algorithms. 
+
+Explain the concept of an individual in the context of genetic algorithms and its role in the optimization process? [6]
+Explain the concept of Messy Genetic Algorithm?  [6]
+Write the principles of the Holland Classifier system and its application?[5]
+Describe  the  process  of  selection  in  genetic  algorithms,  including  the different selection strategies used?  [6]
+What condition determines when a genetic algorithm stops iterating and returns the best solution found? [6]
+Explain the concept of initialization in genetic algorithms and its role in creating the initial population?   [5]
+
+Explain following Terminologies of Genetic Algorithm: [10]
+    Search  space
+    Genes
+    Allele
+    Trait
+    Genotype and Phenotype
+    Write short note on : [7]
+    Selection operator in Genetic Algorithm.
+    Stopping conditions used in genetic algorithms
+What are types of mutation and cross over techniques? Explain in brief.[6]
+Explain Messy Genetic Algorithms. [6]
+Explain - Binary Representations, Floating Point Representations used in Genetic Algorithms. [5]
+
+
+Unit V Computational Intelligence and NLP
+
+    Introduction
+    Word embedding Techniques-
+        Bag of Words
+        TF-IDF
+        Word2Vec
+        Glove
+    Neural word embedding
+    Neural Machine Translation
+    Seq2Seq and Neural Machine Translation translation 
+    Metrics (BLEU Score & BERT Score) 
+    Traditional Versus Neural Metrics for Machine Translation 
+
+Compare  and  contrast  Word2Vec  and  GloVe  in  terms  of  how  they generate word embeddings?  [9]
+Explain the architecture of a Seq2Seq model and its role in neural machine translation? [9]
+How  does  BERT  (Bidirectional  Encoder  Representations  from Transformers) work, and what are its advantages over traditional language models?  [9]
+Describe the TF-IDF (Term Frequency-Inverse Document Frequency) weighting scheme and its significance in text representation? [9]
+
+Explain following Word embedding Techniques: [8]
+    i) Bag of Words
+    ii) TF-IDF
+    iii) Word2Vec
+    iv) GloVe
+Explain the process of Neural Style Transfer and discuss its applications. [5]
+Discuss the significance of pre-trained NLP BERT models and provide examples of their applications. [5]
+Describe the architecture of a Neural Machine Translation (NMT) model and discuss the role of Seq2Seq in NMT. [9]
+Define BLEU Score and BERT Score as metrics for evaluating machine translation. Compare traditional metrics with neural metrics in machine translation evaluation. [9]
+
+Unit VI Artificial Immune Systems
+
+    Natural  Immune System
+        Artificial  Immune Models
+        Artificial  Immune System Algorithm
+    
+    Classical View  Models
+        Clonal  Selection  Theory  Model
+        Network  Theory  Model
+        Danger  Theory  Model
+
+    Dendritic cell Model
+    Applications of AIS models 
+
+Explain the concept of Artificial Immune Models and their significance in computational intelligence? [9]
+Describe the principles of Network Theory Model and its application in understanding immune system behaviour?   [8]
+Discuss the role of antigen-presenting cells in immune activation and its representation in the Dendritic Cell Model? [9]
+Discuss  the  limitations  and  challenges  of  applying Artificial  Immune System models in real-world applications? [8]
+Describe the Network Theory Model in artificial immune systems. [6]
+Describe the working of the Artificial Immune System Algorithm. [5]
+Explain the concept of danger theory in the context of artificial immune systems. [6] 
+Explain  how  the  Clonal  Selection  Theory  Model  contributes  to  the development of artificial immune systems? [6]
+Explain the concept of the natural immune system. Compare it with artificial immune models. [5]
+Discuss the role of dendritic cells in the artificial imnrnne system. How are  dendritic  cell-based  models  utilized  in  problem-solving  and optimization tasks? [6]

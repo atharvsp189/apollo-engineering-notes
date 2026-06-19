@@ -1,0 +1,140 @@
+Unit III Distributed Computing Algorithms
+
+    Distributed Computing Algorithms: Communication and coordination in distributed systems
+
+    Distributed consensus algorithms (Other consensus algorithms ● Viewstamped Replication ● RAFT ● ZAB ● Mencius ● Many variants of Paxos (Fast Paxos, Egalitarian Paxos etc))
+
+    Fault tolerance and recovery in distributed systems
+
+    Load balancing and resource allocation strategies:
+    Weighted Round Robin
+    Least Connection
+    Randomized Load Balancing
+    Dynamic Load Balancing
+    Centralized Load Balancing
+    Distributed Load Balancing
+    Predictive Load Balancing
+
+    Applying AI techniques to optimize distributed computing algorithms:
+    Machine Learning for Resource Allocation
+    Reinforcement Learning for Dynamic Load Balancing 
+    Genetic Algorithms for Task Scheduling
+    Swarm Intelligence for Distributed Optimization
+
+Unit IV Distributed Machine Learning and AI 06 Hours
+
+    Introduction to distributed machine learning algorithms: Types of Distributed Machine Learning:
+    Data Parallelism and Model Parallelism
+    Distributed Gradient Descent
+    Federated Learning
+    All-Reduce
+    Hogwild
+    Elastic Averaging SGD
+
+    Software to implement Distributed ML: Spark, GraphLab, Google TensorFlow, Parallel ML System (Formerly Petuum)
+    Systems and Architectures for Distributed Machine Learning
+
+    Integration of AI algorithms in distributed systems:
+    Intelligent Resource Management
+    Anomaly Detection and Fault Tolerance
+    Predictive Analytics
+    Intelligent Task Offloading
+
+Unit V Big Data Processing in Distributed Systems
+
+    Big data processing frameworks in distributed computing: Hadoop, Apache Spark, Apache Storm, Samza, Flink
+
+    Parallel and distributed data processing techniques:
+    Single Instruction Single Data (SISD)
+    Multiple Instruction Single Data (MISD)
+    Single Instruction Multiple Data (SIMD)
+    Multiple Instruction Multiple Data (MIMD)
+    Single program multiple data (SPMD)
+    Massively parallel processing (MPP)
+
+    Scalable data ingestion: types of data ingestion, Benefits, challenges, tools, transformation in distributed systems
+
+    Real-time analytics and Streaming analytics: types of real time analytics, types of streaming analytics, Comparison of real time analytics and streaming analytics, Applying AI and data science for large-scale data processing and analytics.
+
+Unit VI Distributed Systems Security and Privacy 06 Hours
+
+    Security Challenges in Distributed Systems
+    Insider Threats
+    Encryption and Secure Communication: TLS/SSL, PKI, VPN, AMQP
+
+    Privacy Preservation Techniques:
+    Differential Privacy
+    Homomorphic Encryption
+    Secure Multi-Party Computation (SMPC)
+    Federated Learning
+    Anonymization and Pseudonymization
+    Access Control and Data Minimization
+
+    AI-based Intrusion Detection and Threat Mitigation Techniques:
+    Anomaly Detection
+    Behavior-based Detection
+    Threat Intelligence and Analysis
+    Real-time Response and Mitigation
+    Adaptive Security
+    User and Entity Behavior Analytics (UEBA)
+    Threat Hunting and Visualization
+
+
+PYQs (reorganized by topic)
+
+-- Consensus & Paxos --
+Q1) a) List and explain any one variant of Paxos in detail. [6]
+Q2) a) What is consensus algorithms? Explain any one algorithm.[6]
+Q2) a) Describe one variant of Paxos and explain how it differs from the original Paxos algorithm. [6]
+
+-- Fault Tolerance --
+Q1) b) Explain Fault Tolerance and Recovery in context of Distributed systems.[6]
+
+-- Genetic Algorithms & Scheduling --
+Q2) b) Explain Genetic Algorithms for Task Scheduling. [6]
+Q2) b) Describe how Genetic Algorithms can be used for task scheduling and explain their benefits in this context. [6]
+
+-- Load Balancing (classical and AI-based) --
+Q1) c) Explain reinforcement Learning for Dynamic Load Balancing. [6]
+Q7) a) Explain how reinforcement learning can be applied to load balancing in distributed systems, highlighting its potential advantages. [9]
+Q2) c) Compare  Centralized  Load  Balancing  &  Distributed  Load  Balancing Techniques. [6]
+Q1) a) Explain the key differences between Centralized and Distributed Load Balancing Techniques. [6]
+Q1) c) Compare and contrast how Weighted Round Robin and Least Connection load balancing algorithms would perform in a system with varying server capacities and network loads. [6]
+Q2) c) Apply  load  balancing  and  resource  allocation  strategies  to  optimize performance  in  a  cloud  computing  environment.  How  would  you implement these strategies to handle varying workloads? [6]
+
+-- Distributed Machine Learning (algorithms & systems) --
+Q3) a) Explain Systems and Architectures for Distributed Machine Learning.[9]
+Q3) b) Write note on [8]
+    i) Federated Learning,
+    ii) Hogwild
+    iii) Elastic Averaging SGD
+Q3) a) Explain Elastic Averaging SGD. [9]
+Q3) b) Explain Systems and Architectures for Distributed Machine Learning. [8]
+
+-- Apache Spark & Integration of AI --
+Q4) a) What is Apache Spark? Explain working of Apache Spark. [9]
+Q4) a) What is Apache Spark? Explain the working of Apache Spark. [9]
+Q4) b) Explain how integration of AI algorithms in distributed systems can help in Intelligent Resource Management, Anomaly Detection. [8]
+Q4) b) Explain     
+        i)   Federated Learning.
+        ii)    Elastic Averaging SGD. [8]
+
+-- Big Data Frameworks, Ingestion & Analytics --
+Q5) a) Explain the Big data processing frameworks in distributed computing.[6]
+Q5) b) Differentiate between SIMD and MIMD. [6]
+Q6) b) Compare SISD and MISD [6]
+Q6) a) Explain  how AI  and  data  science  can  be applied for large-scale data processing and analytics. [6]
+Q7) b) Apply  different  Big  Data  processing  frameworks  in  a  distributed computing environment to solve a specific data analysis problem. How would you choose and implement the appropriate framewcrk? [8]
+Q5) c) Elaborate  various  scalable  data  ingestion  methods  used  in  distributed computing environments. [6]
+Q8) a) Describe the different types of data ingestion and explain how each type
+is used in data processing workflows. [9]
+Q6) c) Discuss  about  various  types  of  real-time  analytics  used  in  distributed computing systems. [6]
+
+-- Security, Privacy & Intrusion Detection --
+Q7) a) Explain Anomaly as well as Behavior AI-based Intrusion Detection & Threat Mitigation Techniques [9]
+Q8) b) Describe Al-based intrusion detection and threat mitigation techniques
+and explain how they help enhance network security. [8]
+Q7) b) Explain how can Secure Multi-Party Computation(SMPC)be effectively implemented to ensure confidentiality and privacy preservation. [8]
+Q8) a) Enlist the various security challenges in distributed systems? Elaborate
+any three challenges in detail? [9]
+Q8) b) Write a Short Note a Threat Hunting and Visualization. [8]

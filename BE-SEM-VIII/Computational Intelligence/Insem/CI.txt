@@ -1,0 +1,46 @@
+Unit I Introduction To Computational Intelligence
+
+    Introduction  to  Computational  Intelligence
+    Paradigms  of  Computational  Intelligence
+    Difference between  Artificial Intelligence  and  Computational Intelligence
+    Approaches  to  Computational Intelligence
+    Synergies  of  Computational  Intelligence  Techniques
+    Applications  of  Computational Intelligence
+    Grand Challenges of Computational Intelligence
+
+    Explain various applications of Computational Intelligence . [5]
+    Describe any three paradigm of Computational Intelligence.   [6]
+    Difference between Artificial Intelligence and Computational Intelligence.[4]
+    Describe Swarm Intelligence with example?   [5]
+    Explain different approaches to computational Intelligence. [6]
+    Enlist & Explain challenges in Computational Intelligence.   [4] 
+
+Unit II Fuzzy Logic
+
+    Introduction  to  Fuzzy  Set-  
+        Introduction
+        definition
+        membership  Function
+        Fuzzy  operator
+        Fuzzy Set Characteristics
+        Fuzziness and Probability. 
+        
+    Fuzzy Logic and Reasoning–Fuzzy Logic: 
+        Linguistics Variables and Hedges Fuzzy Rules. 
+
+    Fuzzy Inferencing:
+        neuro inferencing Fuzzification
+        Defuzzification 
+
+    Fuzzy logic Controllers:
+        Fuzzy logic Controllers
+        Fuzzy logic Controller Types 
+
+    Explain fuzzy inference with example? [4]
+    Explain Fuzzy Logic controllers with its components? [6]
+    What are member functions, and how are they categorized by type? [5]
+    Difference Between Fuzzification & Defuzzification.   [4]
+    Write a Short Note on. [6]
+        i) Linguistics Variables and Hedges
+        ii) Fuzzy Rules
+    Explain the characteristics of Fuzzy set? [5]

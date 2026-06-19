@@ -1,0 +1,80 @@
+Unit I Introduction to Distributed Computing
+
+
+Fundamentals of distributed computing:
+    Characteristics of Distributed Systems: 
+        Issues, Goals, and Types of distributed systems
+        Distributed System Models 
+
+    Introduction to Artificial Intelligence and Data Science in distributed computing: 
+        Distributing computational tasks
+        handling large volumes of data
+        leveraging parallel processing 
+        capabilities, issues related to data storage and retrieval
+        data consistency
+        communication overhead 
+        synchronization
+        fault tolerance. 
+    
+    Use cases and applications of integrating AI and data science in distributed systems: 
+        Predictive  Maintenance
+        Fraud  Detection
+        Intelligent  Transportation  Systems
+        Supply  Chain  Optimization
+        Energy Management
+        Healthcare and Medical Diagnostics
+        Customer Behavior Analysis
+        Natural Language Processing (NLP) 
+    
+    
+    Explain issues related to data storage and retrieval in Al & DS. [5]
+    List & Explain various Characteristics of Distributed Systems. [5]
+    Explain integrating Al and data science in Predictive Maintenance and its applications. [5]
+
+    Outline the goals of distributed systems. [5]
+    Discuss the use of Al & DS in Healthcare and Medical Diagnostics. [4]
+    Write Note on : [6]
+        i) Distributing computational tasks.
+        ii) Communication overhead in Distributed Computing.
+
+Unit II Distributed Data Management and Storage
+
+    Overview of Distributed Computing Frameworks and Technologies 
+        Parallel  Computing
+        Distributed  Computing  Models
+        Message  Passing,  
+    
+    Distributed  File  Systems: 
+        Hadoop Distributed File System (HDFS) and Google File System (GFS)
+    
+    Cluster Computing: 
+        AWS, Microsoft Azure, and Google Cloud Platform (GCP)
+        Message Brokers and Stream Processing
+        Edge Computing 
+
+    Data  Replication  and  Consistency  Model:
+        Eager  Replication
+        Lazy  Replication
+        Quorum-Based Replication
+        Consensus-Based  Replication
+        Selective  Replication
+        Strong  Consistency
+        Eventual Consistency
+        Read-your-writes Consistency
+        Consistent Prefix Consistency
+        Causal Consistency 
+    
+    Distributed data indexing and retrieval techniques:
+        Distributed Hash Tables (DHTs)
+        Distributed Inverted  Indexing
+        Range-based Partitioning
+        Content-based  Indexing
+        Peer-to-Peer (P2P)  Indexing 
+        Hybrid Approaches
+
+    Differentiate  between  Hadoop  Distributed  File  System  (HDFS)  and Google File System (GFS). [5]
+    Explain Cluster Computing. [4]
+    Write note on Eager Replication & Lazy Replication. [6]
+    Explain Consistency Model & its Types. [6]
+    Differentiate between AWS & Microsoft Azure. [5]
+    Explain  Message  Brokers  and  Stream  Processing  in  Distributed Computing. [4]

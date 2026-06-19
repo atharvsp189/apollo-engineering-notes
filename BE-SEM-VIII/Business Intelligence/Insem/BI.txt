@@ -1,0 +1,52 @@
+
+Unit I Introduction to BI and Decision Support system
+
+Business  Intelligence:
+    Definition  of  Business  Intelligence
+    Brief  History  of  Business    Intelligence
+    Architecture & Components of Business Intelligence
+    Business Intelligence Scenarios
+    Future & Goals of  Business  Intelligence
+    Data  Information  &  Knowledge
+    Business  Intelligence  Tasks  &  Analysis Formats
+
+Decision Support System:
+    Definition of Decision Support System
+    Information Systems Support for Decision  Making
+    Simon’s  Decision  Making  Process
+    The  Decision  Support  System-Business 
+    Intelligence Connection
+
+Explain the concepts of Data, Information, and Knowledge in the context of Business Intelligence. [5]
+Analyze a business scenario and identify how Business Intelligence tasks can be employed for strategic decision-making. [5]
+Evaluate the goals of Business Intelligence and its future trends. [5]
+Explain  the  connection  between  Business  Intelligence  and  Decision Support  System. [5]
+Propose a Business Intelligence architecture suitable for a specific industry and justify your choices. [5]
+Assess the impact of Business Intelligence on improving decision-making processes in organizations. [5]
+
+Unit II Modelling in Business Intelligence
+
+    Models and modelling in BI
+    Model Presentation
+    Model Building
+    Model Assessment and Quality of Models
+
+    Modelling  using  Logical  Structures:  
+        ontology  &  Frame
+
+    Modelling  using  graph  structure: 
+        Business process model and notation (BPMN)
+        Modelling using probabilistic structures
+        Modelling using analytical structure
+
+    Model and Data:
+        data Generation
+        The Role of time
+        Data Quality.
+
+Explain how Logical Structures, such as ontology and frame, are used in BI modeling. [5]
+Identify the key components of Model Building in BI. [5]
+Utilize Business Process Model and Notation (BPMN) to model a complex business process in a given case study. [5]
+Elaborate on the significance of graph structures, specifically Business Process Model and Notation (BPMN), in BI modelling. [5]
+Describe the factors that contribute to the Quality of Models in Business Intelligence. [5]
+Develop a Model Presentation for a hypothetical business scenario and justify your design choices. [5]
